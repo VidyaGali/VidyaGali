@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vidya
-- Aspiring Web Developer
-- Higly concentrating on Javascript
+- ✨ Aspiring Web Developer
+-  Higly concentrating on Javascript
 - 👀 I’m interested in web Development
 - 🌱 I have already learnt HTML5,CSS3,Bootstart and currently Learning Javascript with the help of youtube.
 - 📫 you can reach me through github.
